@@ -5,7 +5,7 @@ let nivel = ""
 if (xpHeroi < 1000){
     nivel = "Ferro";
 } else if (xpHeroi >= 1001 && xpHeroi <= 2000){
-    cnivel = "Bronze";
+    nivel = "Bronze";
 }else if (xpHeroi >= 2001 && xpHeroi <= 5000){
     nivel = "Prata";
 }else if (xpHeroi >= 5001 && xpHeroi <=7.000){
